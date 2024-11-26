@@ -1,4 +1,4 @@
-# Predicting Categories Based on Symptoms
+# Categories Prediction Based on Symptoms
 This project is focused on predicting categories based on the symptoms described in textual descriptions. It utilizes machine learning models to classify and predict the category of a given symptom, such as errors, requests, or issues in various domains. The models used include Logistic Regression, Decision Trees, and Random Forest, with further optimization through GridSearchCV.
 
 ## Data Preprocessing:
