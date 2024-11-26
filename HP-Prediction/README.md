@@ -47,7 +47,8 @@ Use GridSearchCV to fine-tune hyperparameters for the best model.
 
 Predict house prices for the test dataset and prepare a submission file.
 Results
-Gradient Boosting Regressor was the best model with an RMSE of 0.1293.
+Gradient Boosting Regressor was the best model with an RMSE of 0.1293 and 90.54% Accuracy.
+
 Advanced feature engineering and data preprocessing significantly improved model performance.
 Technologies Used
 #### Python Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
