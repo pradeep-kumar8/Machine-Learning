@@ -40,7 +40,9 @@ Outlier Detection Boxplot:
 
 #### 3. Clustering
 Data is scaled using StandardScaler.
+
 The optimal number of clusters is determined using the Elbow Method.
+
 Elbow Method Plot:
 
 ![image](https://github.com/user-attachments/assets/03d58c5d-3766-4598-8ec2-652d65768e95)
