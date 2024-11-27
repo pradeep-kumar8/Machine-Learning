@@ -4,10 +4,10 @@ This project demonstrates customer segmentation using KMeans clustering on trans
 ## Project Overview
 Customer segmentation is a crucial task in marketing that helps businesses tailor their strategies for different customer groups. This project applies KMeans clustering on customer data using three main features:
 
- Monetary (Total Amount Spent)
- Frequency (Number of Transactions)
- Recency (Days Since Last Transaction)
- The process includes:
+Monetary (Total Amount Spent)   
+Frequency (Number of Transactions)
+Recency (Days Since Last Transaction)
+The process includes:
 
 ### Data Preprocessing
 1. Outlier Removal
