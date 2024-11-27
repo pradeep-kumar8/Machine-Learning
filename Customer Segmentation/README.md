@@ -5,10 +5,10 @@ This project demonstrates customer segmentation using KMeans clustering on trans
 Customer segmentation is a crucial task in marketing that helps businesses tailor their strategies for different customer groups. This project applies KMeans clustering on customer data using three main features:
 
 Monetary (Total Amount Spent)   
-Frequency (Number of Transactions)
-Recency (Days Since Last Transaction)
-The process includes:
+Frequency (Number of Transactions)  
+Recency (Days Since Last Transaction)  
 
+## The process includes:
 ### Data Preprocessing
 1. Outlier Removal
 2. Feature Scaling
@@ -29,8 +29,8 @@ Kaggle Dataset Link -: https://www.kaggle.com/code/fabiendaniel/customer-segment
 
 ### Workflow
 #### 1. Data Preprocessing
-Missing values are identified and removed.
-New features like Amount and Recency are computed.
+Missing values are identified and removed.  
+New features like Amount and Recency are computed.  
 2. Outlier Removal
 Outliers are detected using boxplots and removed using the IQR method.
 Outlier Detection Boxplot:
@@ -39,10 +39,8 @@ Outlier Detection Boxplot:
 
 
 #### 3. Clustering
-Data is scaled using StandardScaler.
-
-The optimal number of clusters is determined using the Elbow Method.
-
+Data is scaled using StandardScaler.  
+The optimal number of clusters is determined using the Elbow Method.  
 Elbow Method Plot:
 
 ![image](https://github.com/user-attachments/assets/03d58c5d-3766-4598-8ec2-652d65768e95)
