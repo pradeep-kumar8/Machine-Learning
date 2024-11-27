@@ -4,19 +4,28 @@ This project demonstrates customer segmentation using KMeans clustering on trans
 ## Project Overview
 Customer segmentation is a crucial task in marketing that helps businesses tailor their strategies for different customer groups. This project applies KMeans clustering on customer data using three main features:
 
-1. Monetary (Total Amount Spent)
-2. Frequency (Number of Transactions)
-3. Recency (Days Since Last Transaction)
-4. The process includes:
+ Monetary (Total Amount Spent)
+ Frequency (Number of Transactions)
+ Recency (Days Since Last Transaction)
+ The process includes:
 
 ### Data Preprocessing
-Outlier Removal
-Feature Scaling
-Clustering using KMeans
-Visualizing Clusters using PCA
-Files in Repository
-data.csv: Sample dataset containing customer transactional data.
-customer_segmentation_kmeans.ipynb: Jupyter Notebook containing the entire workflow.
+1. Outlier Removal
+2. Feature Scaling
+3. Clustering using KMeans
+4. Visualizing Clusters using PCA
+5. Files in Repository
+6. customer_segmentation_kmeans.ipynb: Jupyter Notebook containing the entire workflow.
+
+#### Dataset
+The dataset used in this project can be accessed from Kaggle:
+
+Kaggle Dataset Link -: https://www.kaggle.com/code/fabiendaniel/customer-segmentation/input
+
+1. Download Instructions:
+2. Visit the Kaggle dataset link.
+3. Download the data.csv file.
+4. Place the file in the project directory.
 
 ### Workflow
 #### 1. Data Preprocessing
