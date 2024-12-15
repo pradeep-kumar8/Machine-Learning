@@ -10,10 +10,10 @@ Welcome to my **Machine Learning portfolio**, where I showcase my expertise in a
 
 ## **Projects & Highlights**
 
-### **1. Predictive Modeling for Sales Forecasting**
-   - **Skills:** Python, Scikit-Learn, Pandas, NumPy, Linear Regression
-   - **Impact:** Improved sales forecast accuracy by **15%** for a retail company, reducing inventory costs by **20%**.
-   - **Code/Link:** [Sales Forecasting Repository](#)
+### **1. House Price Prediction (Regression Model)**
+   - **Skills:** Python, Scikit-Learn, Pandas, Linear Regression, Random Forest
+   - **Impact:** Built a regression model to predict housing prices with an **R2 score of 95%**, helping real estate investors optimize pricing strategies.
+   - **Code/Link:** [House Price Prediction Repository](#)
 
 ### **2. Customer Segmentation using K-Means Clustering**
    - **Skills:** Python, Scikit-Learn, Pandas, KMeans
@@ -30,10 +30,10 @@ Welcome to my **Machine Learning portfolio**, where I showcase my expertise in a
    - **Impact:** Analyzed social media sentiment for brand perception, leading to better-targeted customer engagement.
    - **Code/Link:** [Sentiment Analysis Repository](#)
 
-### **5. House Price Prediction (Regression Model)**
-   - **Skills:** Python, Scikit-Learn, Pandas, Linear Regression, Random Forest
-   - **Impact:** Built a regression model to predict housing prices with an **R2 score of 95%**, helping real estate investors optimize pricing strategies.
-   - **Code/Link:** [House Price Prediction Repository](#)
+### **5. Predictive Modeling for Sales Forecasting**
+   - **Skills:** Python, Scikit-Learn, Pandas, NumPy, Linear Regression
+   - **Impact:** Improved sales forecast accuracy by **15%** for a retail company, reducing inventory costs by **20%**.
+   - **Code/Link:** [Sales Forecasting Repository](#)
 
 ### **6. Fraud Detection in Credit Card Transactions**
    - **Skills:** Python, Scikit-Learn, Imbalanced Data, Random Forest, SMOTE
