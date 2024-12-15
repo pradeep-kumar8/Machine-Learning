@@ -12,7 +12,7 @@ Welcome to my **Machine Learning portfolio**, where I showcase my expertise in a
 
 ### **1. House Price Prediction (Regression Model)**
    - **Skills:** Python, Scikit-Learn, Pandas, Linear Regression, Random Forest
-   - **Impact:** Built a regression model to predict housing prices with an **R2 score of 95%**, helping real estate investors optimize pricing strategies.
+   - **Impact:** Built a regression model to predict housing prices with an **92% accuracy**, helping real estate investors optimize pricing strategies.
    - **Code/Link:** [House Price Prediction Repository](./HP-Prediction)
 
 ### **2. Customer Segmentation using K-Means Clustering**
