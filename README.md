@@ -16,9 +16,9 @@ Welcome to my **Machine Learning portfolio**, where I showcase my expertise in a
    - **Code/Link:** [House Price Prediction Repository](./HP-Prediction)
 
 ### **2. Customer Segmentation using K-Means Clustering**
-   - **Skills:** Python, Scikit-Learn, Pandas, KMeans
+   - **Skills:** Python, Scikit-Learn, Pandas, KMeans, PCA
    - **Impact:** Segmented customers based on purchasing behavior, leading to **targeted marketing strategies** and a **12% increase** in customer retention.
-   - **Code/Link:** [Customer Segmentation Repository](#)
+   - **Code/Link:** [Customer Segmentation Repository](./Customer-Segmentation)
 
 ### **3. Credit Risk Prediction using Classification Models**
    - **Skills:** Python, Scikit-Learn, Logistic Regression, Random Forest
