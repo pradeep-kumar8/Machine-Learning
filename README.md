@@ -92,6 +92,12 @@ Welcome to my **Machine Learning portfolio**, where I showcase my expertise in a
 
 ---
 
+## License
+
+This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+---
+
 ## **Links & Contact**
 
 - **GitHub Profile:** [Github](https://github.com/pradeep-kumar8/)
